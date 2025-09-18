@@ -34,7 +34,3 @@ This project analyzes *Bitcoin trading activity* in relation to *market sentimen
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/crypto-trader-sentiment.git
